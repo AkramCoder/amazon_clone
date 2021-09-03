@@ -1,3 +1,6 @@
+# Project Description
+Amazon clone using react, material ui in the frontend and firebase in the backend. This project is hosted on firebase, you can find it here: https://clone-6c675.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
